@@ -1,59 +1,59 @@
-# Bright Data SOCKS5 Proxies
+# Bright Data SOCKS5 プロキシ
 
-[![Promo](https://github.com/luminati-io/SOCKS5-Proxies/blob/main/first-deposit-banner.PNG)](https://brightdata.com/solutions/socks5-proxies) 
+[![Promo](https://github.com/luminati-io/SOCKS5-Proxies/blob/main/first-deposit-banner.PNG)](https://brightdata.jp/solutions/socks5-proxies) 
 
 ## Overview
-Send SOCKS5 proxy server requests using Bright Data’s Proxy Manager and enjoy seamless, high-speed scraping with Bright Data's [SOCKS5 proxies](https://brightdata.com/proxy-types/socks5-proxies), designed for versatility, anonymity, and top performance.
+Bright Data の Proxy Manager を使用して SOCKS5 プロキシサーバーへのリクエストを送信し、汎用性、匿名性、最高のパフォーマンスを実現するように設計された Bright Data の [SOCKS5 proxies](https://brightdata.jp/proxy-types/socks5-proxies) により、シームレスで高速なスクレイピングをお楽しみいただけます。
 
-- **Supports TCP & UDP traffic**
-- **SOCKS5 Protocol for maximum compatibility**
-- **99.99% success rate**
-- **Free Geo-location targeting (Country, City, State, ZIP)**
+- **TCP および UDP トラフィックをサポート**
+- **最大限の互換性を実現する SOCKS5 プロトコル**
+- **99.99% の成功率**
+- **無料のジオロケーションターゲティング（国、市、州、ZIP）**
 
 ## Key Features
-- **Global Coverage**: SOCKS5 proxies available in [195 countries](https://brightdata.com/locations).
-- **High Success Rates**: Up to 99.99% success for scraping and data collection.
-- **Fast Response**: Reliable connections with minimal latency.
-- **Versatile Protocol**: Suitable for HTTP, HTTPS, FTP, and more.
-- **Unlimited Scaling**: No restrictions on concurrent sessions.
+- **グローバルカバレッジ**: [195 か国](https://brightdata.jp/locations)で利用可能な SOCKS5 プロキシ。
+- **高い成功率**: スクレイピングおよびデータ収集で最大 99.99% の成功率。
+- **高速レスポンス**: 遅延を最小限に抑えた信頼性の高い接続。
+- **汎用的なプロトコル**: HTTP、HTTPS、FTP などに対応。
+- **無制限のスケーリング**: 同時セッションに制限はありません。
 
 ## SOCKS5 Proxy Pricing
 
 ### Residential Proxies
 
-- **Pay As You Go**: $8.4/GB, no monthly commitment required.
+- **Pay As You Go**: $8.4/GB、月額契約は不要です。
 - **Monthly Subscriptions**:
-  - **69 GB**: $7.14/GB, $499/month.
-  - **158 GB**: $6.3/GB, $999/month.
-  - **339 GB**: $5.88/GB, $1999/month.
-  - **Enterprise Plans**: Custom pricing and solutions available for large-scale operations.
+  - **69 GB**: $7.14/GB、$499/月。
+  - **158 GB**: $6.3/GB、$999/月。
+  - **339 GB**: $5.88/GB、$1999/月。
+  - **Enterprise Plans**: 大規模運用向けにカスタム価格とソリューションをご用意しています。
 
  ### ISP Proxies
 
-- **Pay As You Go**: $1.8/IP, no monthly commitment required.
+- **Pay As You Go**: $1.8/IP、月額契約は不要です。
 - **Monthly Subscriptions**:
-  - **10 IPs**: $1.8/IP, $18/month.
-  - **100 IPs**: $1.45/IP, $145/month.
-  - **500 IPs**: $1.4/IP, $700/month.
-  - **1,000 IPs**: $1.3/IP, $1,300/month.
-  - **Enterprise Plans**: Custom pricing and solutions available for operations requiring more than 1,000 IPs.
+  - **10 IPs**: $1.8/IP、$18/月。
+  - **100 IPs**: $1.45/IP、$145/月。
+  - **500 IPs**: $1.4/IP、$700/月。
+  - **1,000 IPs**: $1.3/IP、$1,300/月。
+  - **Enterprise Plans**: 1,000 IP を超える運用向けにカスタム価格とソリューションをご用意しています。
  
 ### Datacenter Proxies
 
-- **Pay As You Go**: $1.40/IP, no monthly commitment required.
+- **Pay As You Go**: $1.40/IP、月額契約は不要です。
 - **Monthly Subscriptions**:
-  - **10 IPs**: $1.40/IP, $14/month.
-  - **100 IPs**: $1.00/IP, $100/month.
-  - **500 IPs**: $0.95/IP, $475/month.
-  - **1,000 IPs**: $0.90/IP, $900/month.
-  - **Enterprise Plans**: Custom pricing and solutions available for operations requiring more than 1,000 IPs.
+  - **10 IPs**: $1.40/IP、$14/月。
+  - **100 IPs**: $1.00/IP、$100/月。
+  - **500 IPs**: $0.95/IP、$475/月。
+  - **1,000 IPs**: $0.90/IP、$900/月。
+  - **Enterprise Plans**: 1,000 IP を超える運用向けにカスタム価格とソリューションをご用意しています。
 
-Sign up and receive a dollar-for-dollar match on your first deposit, up to $500!
+登録して、初回入金に対して最大 $500 まで 1 ドル単位で同額マッチを受け取れます！
 
 ## Getting Started with SOCKS5 Proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Use Bright Data Proxy Manager or APIs to manage SOCKS5 proxies.
-3. **Supported Platforms**: Easily configure SOCKS5 proxies in Python, Node.js, cURL, and more.
+1. **無料トライアルを開始**: クレジットカードは不要です。
+2. **統合**: Bright Data Proxy Manager または API を使用して SOCKS5 プロキシを管理します。
+3. **対応プラットフォーム**: Python、Node.js、cURL などで SOCKS5 プロキシを簡単に設定できます。
 
 ## Code Examples
 
@@ -99,54 +99,54 @@ curl -x socks5h://brd.superproxy.io:22228 \
 ```
 
 ## Use Cases
-Explore the versatility of SOCKS5 proxies for various industries:
+さまざまな業界における SOCKS5 プロキシの汎用性をご覧ください。
 
-- [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track product pricing, reviews, and availability from multiple regions.
-- [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends, engagement, and competitor activity anonymously.
-- [**Travel**](https://brightdata.com/use-cases/travel): Compare travel deals across countries and regions with precise geo-targeting.
-- [**Financial Services**](https://brightdata.com/use-cases/financial): Collect real-time market data and analyze trends securely.
+- [**eCommerce**](https://brightdata.jp/use-cases/ecommerce): 複数地域の製品価格、レビュー、在庫状況を追跡します。
+- [**Social Media**](https://brightdata.jp/use-cases/social-media-for-marketing): トレンド、エンゲージメント、競合の動向を匿名で監視します。
+- [**Travel**](https://brightdata.jp/use-cases/travel): 正確なジオターゲティングにより、国や地域をまたいで旅行プランの料金を比較します。
+- [**Financial Services**](https://brightdata.jp/use-cases/financial): リアルタイムの市場データを収集し、トレンドを安全に分析します。
 
 ---
 
 ## FAQ
 
 ### What is the SOCKS5 Proxy Protocol?
-SOCKS5 is a versatile proxy protocol that routes network packets between a client and a server via a proxy. It supports both TCP and UDP connections, enabling a wide range of applications, such as web scraping, bypassing restrictions, and enhancing anonymity.
+SOCKS5 は、プロキシを介してクライアントとサーバー間のネットワークパケットを中継する汎用的なプロキシプロトコルです。TCP と UDP の両方の接続をサポートしており、Webスクレイピング、制限の回避、匿名性の強化など、幅広い用途に利用できます。
 
 ### How does SOCKS5 differ from HTTP proxies?
-SOCKS5 operates at a lower level than HTTP proxies, allowing it to handle a broader range of traffic types, including HTTP, HTTPS, FTP, and SMTP. It also provides higher anonymity by not modifying network packets.
+SOCKS5 は HTTP プロキシよりも低いレベルで動作するため、HTTP、HTTPS、FTP、SMTP などを含む、より幅広い種類のトラフィックを処理できます。また、ネットワークパケットを変更しないため、より高い匿名性を提供します。
 
 ### How can I use SOCKS5 proxies with Bright Data services?
-Bright Data supports SOCKS5 on its Residential, Datacenter, and ISP proxy networks. To use SOCKS5:
-1. Configure your application to use `brd.superproxy.io` on port `22228`.
-2. Use your Bright Data credentials for authentication.
-3. Ensure remote DNS resolution with the `socks5h://` protocol.
+Bright Data は、Residential、Datacenter、ISP の各プロキシネットワークで SOCKS5 をサポートしています。SOCKS5 を使用するには、以下を実施します。
+1. アプリケーションで、ポート `22228` の `brd.superproxy.io` を使用するように設定します。
+2. 認証には Bright Data の認証情報を使用します。
+3. `socks5h://` プロトコルでリモート DNS 解決を有効にします。
 
 ### What is the default port for SOCKS5 proxies?
-The default SOCKS5 proxy port for Bright Data is `22228`. Note that standard ports for HTTP (`22225`) and HTTPS (`22226`) are not applicable for SOCKS5 connections.
+Bright Data における SOCKS5 プロキシのデフォルトポートは `22228` です。HTTP（`22225`）および HTTPS（`22226`）の標準ポートは SOCKS5 接続には適用されない点にご注意ください。
 
 ### What are the benefits of using SOCKS5 proxies?
-SOCKS5 proxies offer:
-- **High Anonymity**: Masks your IP for secure and private connections.
-- **Versatility**: Handles multiple traffic types, including HTTP, HTTPS, FTP, and more.
-- **Bypass Restrictions**: Overcome geo-blocks, firewalls, and censorship.
-- **TCP and UDP Support**: Suitable for a wide variety of use cases.
-- **Reliable Performance**: High uptime and low latency with Bright Data's robust infrastructure.
+SOCKS5 プロキシには以下の利点があります。
+- **高い匿名性**: IPアドレスをマスクし、安全でプライベートな接続を実現します。
+- **汎用性**: HTTP、HTTPS、FTP など、複数種類のトラフィックを処理します。
+- **制限の回避**: ジオブロック、ファイアウォール、検閲を回避します。
+- **TCP と UDP のサポート**: 幅広いユースケースに適しています。
+- **信頼できるパフォーマンス**: Bright Data の堅牢なインフラにより、高い稼働率と低遅延を実現します。
 
 ### How can I ensure the best performance with SOCKS5 proxies?
-To optimize performance:
-1. Use domain names as targets instead of IPs.
-2. Configure remote DNS resolution with the `socks5h://` protocol.
-3. Use [Bright Data’s Proxy Manager](https://brightdata.com/products/proxy-manager) for advanced features like IP rotation and request optimization.
+パフォーマンスを最適化するには、以下を実施してください。
+1. ターゲットには IP ではなくドメイン名を使用します。
+2. `socks5h://` プロトコルでリモート DNS 解決を設定します。
+3. IP ローテーションやリクエスト最適化などの高度な機能には [Bright Data’s Proxy Manager](https://brightdata.jp/products/proxy-manager) を使用します。
 
 ### Can I perform geo-targeting with SOCKS5 proxies?
-Yes, Bright Data's SOCKS5 proxies support precise geo-targeting. You can target specific countries, cities, states, ZIP codes, and ASNs by modifying your username (e.g., `username-country-us` for the United States).
+はい。Bright Data の SOCKS5 プロキシは、精密なジオターゲティングをサポートしています。username を変更することで、特定の国、市、州、ZIP コード、ASN をターゲットにできます（例: 米国の場合は `username-country-us`）。
 
 ### Are SOCKS5 proxies compliant with Bright Data's policies?
-Yes, Bright Data's SOCKS5 proxies adhere to GDPR and CCPA regulations, ensuring compliance and ethical data usage. Follow all guidelines provided to maintain compliance.
+はい。Bright Data の SOCKS5 プロキシは GDPR および CCPA 規制に準拠しており、コンプライアンスと倫理的なデータ利用を保証します。コンプライアンスを維持するため、提供されるすべてのガイドラインに従ってください。
 
 ### What are the limitations of using SOCKS5 proxies?
-- **IP Restrictions**: Only domain names are supported; direct IP requests are blocked.
-- **Port Restrictions**: Must use port `22228` for SOCKS5 connections.
-- **Remote DNS Resolution**: Requires `socks5h://` protocol for compliance.
-- **Target Ports**: Supports only ports above `1024`.
+- **IP の制限**: ドメイン名のみがサポートされ、直接の IP リクエストはブロックされます。
+- **ポートの制限**: SOCKS5 接続ではポート `22228` を使用する必要があります。
+- **リモート DNS 解決**: 準拠のために `socks5h://` プロトコルが必要です。
+- **ターゲットポート**: `1024` を超えるポートのみをサポートします。
